@@ -7,8 +7,8 @@
 
 
 <div style="display: inline_block">
-<img align="center" alt="css" src="https://i.pinimg.com/originals/5b/23/7a/5b237a7cea854127fa2bec300f2dbf32.png"  width="390"
-    height="380" 
+
+    
 
 </div><br/>
 
