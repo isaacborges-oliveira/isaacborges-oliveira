@@ -13,4 +13,5 @@
 </div><br/>
 
 
-![dragon-ball-daima-daima](https://github.com/user-attachments/assets/af966d22-6113-4cf9-b0aa-86065b7c2a73) ![cristiano-ronaldo-drinking](https://github.com/user-attachments/assets/ee4980a9-cd3d-4b96-8f88-1e926233da0b)
+![dragon-ball-daima-daima](https://github.com/user-attachments/assets/af966d22-6113-4cf9-b0aa-86065b7c2a73) ![rolando-ronaldo-ezgif com-resize (1)](https://github.com/user-attachments/assets/a44b0bf5-8a78-4a5b-b4dd-912bc810ce99)
+
