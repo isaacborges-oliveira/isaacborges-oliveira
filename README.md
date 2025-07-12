@@ -42,8 +42,13 @@ Atualmente focado em me tornar um **desenvolvedor full-stack**, com domínio em 
 
 ---
 
+
 ### 💬 Contato
-📩 Em breve adicionarei formas de contato aqui (LinkedIn, portfólio, etc.) — em construção 🚧
+
+<a href="https://www.linkedin.com/in/isaac-borges-oliveira-128bb0354/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="100" height="60"/>
+</a>
+
 
 ---
 
