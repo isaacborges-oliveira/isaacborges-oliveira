@@ -54,6 +54,6 @@ Atualmente focado em me tornar um **desenvolvedor full-stack**, com domínio em 
 
 ###################
 
-<div align="center">
+<div >
   <img src="https://github.com/user-attachments/assets/a44b0bf5-8a78-4a5b-b4dd-912bc810ce99" width="300" alt="GIF engraçado" />
 </div>
